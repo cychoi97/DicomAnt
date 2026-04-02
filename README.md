@@ -1,4 +1,4 @@
-# dicom2EDA
+# DICOM2EDA
 
 > **All-in-one DICOM metadata extraction + automated EDA pipeline**  
 > Scan a directory tree of DICOM files, extract structured metadata into a tidy DataFrame, and generate a comprehensive EDA report (PDF + individual PNGs) — in a single command.

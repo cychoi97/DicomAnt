@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-dicom2EDA.py  (v3)
+dicom2EDA.py  (v1.0)
 
 All-in-one DICOM metadata extraction + automated EDA.
 
